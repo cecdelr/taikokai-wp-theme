@@ -175,3 +175,22 @@ h6, .h6 {
 .blog-nav li a {
     color: #fff;
 }
+
+/*
+ * Comment 
+ */
+
+.comment{
+  list-style: none;
+}
+
+.comment-body{
+  border: 1px solid #999;
+  padding: 25px;
+  margin-bottom: 10px;
+  border-radius: 9px;
+}
+
+label{
+  display: block;
+}
